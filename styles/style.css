@@ -1,0 +1,14 @@
+.heading {
+    font-family: "Poppins", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+  }
+
+
+.bg-img{
+    background-image:url("https://img.freepik.com/free-photo/rainbow-beach-landscape_23-2151581190.jpg?t=st=1720268896~exp=1720272496~hmac=2bc8391d8344f6931c8cd4ef192c2189225f17c56c0352598b59fc17ecc7a7d5&w=996");
+    background-repeat: no-repeat;
+    height: 1000px;
+    width: 800px;
+    background-size: contain;
+}
